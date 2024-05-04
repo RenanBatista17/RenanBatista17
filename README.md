@@ -1,4 +1,4 @@
-## Hello World! Welcome to My GitHub Profile 🚀
+## Hello World! Welcome to My Profile 🚀
 
 📊Analista de Suporte Pleno - Figma/Azure/Jira/JavaScript<br>👨🏻‍💻Veterano de Informática pela UEM<br>
 
