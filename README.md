@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Renan Batista 🖐️
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBatista17&show_icons=true&theme=onedracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBatista17&layout=compact)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior_meyring/)
